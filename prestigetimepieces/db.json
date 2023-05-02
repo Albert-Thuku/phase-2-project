@@ -1,0 +1,31 @@
+{
+  "watches": [
+    {
+      "name": "Rolex Datejust",
+      "manufacturer": "Rolex",
+      "image": "https://example.com/rolex-datejust.jpg",
+      "description": "The Rolex Datejust is a classic luxury watch, known for its timeless design and precision engineering.",
+      "price": 15000,
+      "quantity": 10,
+      "rating": 4.8
+    },
+    {
+      "name": "Omega Seamaster",
+      "manufacturer": "Omega",
+      "image": "https://example.com/omega-seamaster.jpg",
+      "description": "The Omega Seamaster is a popular luxury watch, worn by James Bond in many of his movies.",
+      "price": 12000,
+      "quantity": 7,
+      "rating": 4.5
+    },
+    {
+      "name": "Patek Philippe Nautilus",
+      "manufacturer": "Patek Philippe",
+      "image": "https://example.com/patek-philippe-nautilus.jpg",
+      "description": "The Patek Philippe Nautilus is a high-end luxury watch, known for its distinctive design and exceptional craftsmanship.",
+      "price": 25000,
+      "quantity": 3,
+      "rating": 4.9
+    }
+  ]
+}
